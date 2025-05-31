@@ -4,14 +4,34 @@
   <property name="pontuacao" default="0" />
   <property name="visitante" default="Aventureiro" />
 
-  <page id="start" bg_image="forest-bg.png" bg_music="osts-vilo.mp3">
+  <page id="start" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
     <agent
       id="teste"
-      text="Hello"
-      color="black"
+      text="Hello World"
+      color="white"
       x="center"
       y="center"
-      font-size="90"
+      font-size="70"
     />
+
+    <agent
+      id="next_page_text"
+      text="Proxima Pagina"
+      animation="glitch"
+      y="480"
+      x="640"
+    />
+    <agent
+      id="next_page"
+      image="forest-sign-2.png"
+      y="530"
+      x="700"
+      animation="click-bounce"
+      on_click="goToPage('middle')"
+    />
+  </page>
+
+  <page id="middle">
+    <agent id="test" text="Middle" font-size="90" />
   </page>
 </fable>
