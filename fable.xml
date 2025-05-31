@@ -12,11 +12,12 @@
     id="welcome"
     bg_color="#2a5d31"
     bg_image="forest-bg.png"
-    bg_music="osts-retro-forest.mp3"
+    bg_music="osts-song.mp3"
   >
     <!-- Titulo principal centralizado -->
     <agent
       id="titulo_principal"
+      
       x="400"
       y="100"
       text="Bem vindo ao CodeFab"
@@ -30,7 +31,7 @@
       id="subtitulo"
       x="400"
       y="150"
-      text="OlÃ¡, $visitante!"
+      text="OlÃÂ¡, $visitante!"
       color="red"
       font-size="20"
       animation="typewriter"
@@ -108,7 +109,7 @@
         id="feedback"
         x="400"
         y="300"
-        text="VocÃª descobriu $pontuacao segredos!"
+        text="VocÃÂª descobriu $pontuacao segredos!"
         color="red"
         font-size="14"
       />
