@@ -1,9 +1,6 @@
-<!-- Arquivo principal da fabula - define configuracoes globais e estrutura -->
 <fable>
-  <!-- Configuracao global da fonte para toda a fabula -->
   <config font-family="Eater" />
 
-  <!-- Propriedades globais - variaveis que persistem entre paginas -->
   <property name="pontuacao" default="0" />
   <property name="visitante" default="Aventureiro" />
 
@@ -11,7 +8,7 @@
     <agent
       id="teste"
       text="Hello"
-      color="black
+      color="black"
       x="center"
       y="center"
       font-size="100"
