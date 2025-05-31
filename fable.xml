@@ -17,13 +17,13 @@
     <!-- Titulo principal centralizado -->
     <agent
       id="titulo_principal"
-      
+      text="Hola"
       x="400"
       y="100"
       text="Bem vindo ao CodeFab"
       color="red"
       font-size="32"
-      animation="slide-down"
+      animation="click-shake"
     />
 
     <!-- Subtitulo com nome do visitante -->
