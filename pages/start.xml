@@ -1,3 +1,26 @@
-<page id="start" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página start" color="white" font-size="24" />
+<page id="start" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
+  <agent
+    id="teste"
+    text="Hello World"
+    color="white"
+    x="center"
+    y="center"
+    font-size="70"
+  />
+
+  <agent
+    id="next_page_text"
+    text="Proxima Pagina"
+    animation="glitch"
+    y="480"
+    x="640"
+  />
+  <agent
+    id="next_page"
+    image="forest-sign-2.png"
+    y="530"
+    x="700"
+    animation="click-bounce"
+    on_click="goToPage('middle')"
+  />
 </page>
