@@ -30,7 +30,7 @@
       id="subtitulo"
       x="400"
       y="150"
-      text="Olá, $visitante!"
+      text="OlÃ¡, $visitante!"
       color="red"
       font-size="20"
       animation="typewriter"
@@ -108,10 +108,10 @@
         id="feedback"
         x="400"
         y="300"
-        text="Você descobriu $pontuacao segredos!"
+        text="VocÃª descobriu $pontuacao segredos!"
         color="red"
         font-size="14"
-        animation="bounce-in"
+        animation=""
       />
     </fab-if>
 
