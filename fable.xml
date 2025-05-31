@@ -111,7 +111,6 @@
         text="VocÃª descobriu $pontuacao segredos!"
         color="red"
         font-size="14"
-        animation=""
       />
     </fab-if>
 
