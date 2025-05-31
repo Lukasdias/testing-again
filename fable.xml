@@ -1,7 +1,7 @@
 <!-- Arquivo principal da fabula - define configuracoes globais e estrutura -->
 <fable>
   <!-- Configuracao global da fonte para toda a fabula -->
-  <config font-family="Poppins" />
+  <config font-family="Eater" />
 
   <!-- Propriedades globais - variaveis que persistem entre paginas -->
   <property name="pontuacao" default="0" />
@@ -31,7 +31,7 @@
       id="subtitulo"
       x="400"
       y="150"
-      text="OlÃÂ¡, $visitante!"
+      text="Ola visitante"
       color="red"
       font-size="20"
       animation="typewriter"
