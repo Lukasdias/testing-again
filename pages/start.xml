@@ -16,7 +16,7 @@
     x="640"
   />
   <agent
-    id="next_page"
+    id="next_page_text"
     image="forest-sign-2.png"
     y="530"
     x="700"
