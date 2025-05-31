@@ -1,17 +1,17 @@
-<fable>
-  <config font-family="Eater" />
-
-  <property name="pontuacao" default="0" />
-  <property name="visitante" default="Aventureiro" />
-
-  <page id="start" bg_image="forest-bg.png" bg_music="osts-vilo.mp3">
-    <agent
-      id="teste"
-      text="Hello"
-      color="black"
-      x="center"
-      y="center"
-      font-size="100"
-    />
-  </page>
-</fable>
+  <fable>
+    <config font-family="Eater" />
+  
+    <property name="pontuacao" default="0" />
+    <property name="visitante" default="Aventureiro" />
+  
+    <page id="start" bg_image="forest-bg.png" bg_music="osts-vilo.mp3">
+      <agent
+        id="teste"
+        text="Hello"
+        color="black"
+        x="center"
+        y="center"
+        font-size="100"
+      />
+    </page>
+  </fable>
