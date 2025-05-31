@@ -11,7 +11,7 @@
     <agent
       id="teste"
       text="Hello"
-      color="black"
+      color="black
       x="center"
       y="center"
       font-size="100"
