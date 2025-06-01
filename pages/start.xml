@@ -10,8 +10,8 @@
 
   <agent
     id="test_video3"
-    video="videoplayback_1_.mp4"
-    width="200"
+    image="tech-box.png"
+    width="60"
     x="center"
     y="400"
     draggable="true"
