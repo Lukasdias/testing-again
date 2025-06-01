@@ -2,7 +2,9 @@
   <config font-family="Schoolbell" />
 
   <property name="pontuacao" default="0" />
+
   <property name="visitante" default="Aventureiro" />
+
   <start />
 
   <middle />
