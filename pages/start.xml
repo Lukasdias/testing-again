@@ -21,6 +21,8 @@
     id="drop"
     image="tech-switchunlocked.png"
     drop_accept="test-video-3"
+    y="400"
+    x="50"
     on_drop="set(can_go_to_page_2, true)"
   />
 
