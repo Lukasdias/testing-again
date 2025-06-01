@@ -32,12 +32,14 @@
     x="640"
   />
 
-  <agent
-    id="next_page_button"
-    image="forest-sign-2.png"
-    y="530"
-    x="700"
-    animation="click-bounce"
-    on_click="goToPage('middle')"
-  />
+  <fab-if when="$can_go_to_page_2 = true">
+    <agent
+      id="next_page_button"
+      image="forest-sign-2.png"
+      y="530"
+      x="700"
+      animation="click-bounce"
+      on_click="goToPage('middle')"
+    />
+  </fab-if>
 </page>
