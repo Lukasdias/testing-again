@@ -9,6 +9,14 @@
   />
 
   <agent
+    id="test_video"
+    video="videoplayback_1_.mp4"
+    width="100"
+    x="center"
+    y="400"
+  />
+
+  <agent
     id="next_page_text"
     text="Proxima Pagina"
     animation="glitch"
