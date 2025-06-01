@@ -40,7 +40,7 @@
       image="forest-sign-2.png"
       y="530"
       x="700"
-      animation="click-bounce"
+      animation="hover-grow"
       on_click="goToPage('middle')"
     />
   </fab-if>
