@@ -9,7 +9,7 @@
   />
 
   <agent
-    id="next_page_text_2"
+    id="next_page_text"
     text="Proxima Pagina"
     animation="glitch"
     y="480"
