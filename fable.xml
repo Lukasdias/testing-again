@@ -4,8 +4,6 @@
   <property name="pontuacao" default="0" />
   <property name="visitante" default="Aventureiro" />
 
-  <ending />
-
   <start />
   <middle />
   <ending />
