@@ -45,7 +45,7 @@
     />
   </fab-if>
 
-  <fab-for each="item in 10">
-    <agent id="text-$item" x="$item * 100" y="$item * 45" text="Bora - $item" />
+  <fab-for each="i in 10">
+    <agent id="text-$i" x="$i * 100" y="$i * 45" text="Bora - $i" />
   </fab-for>
 </page>
