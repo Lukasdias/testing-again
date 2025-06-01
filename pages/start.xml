@@ -12,7 +12,6 @@
     id="test_video"
     video="videoplayback_1_.mp4"
     width="400"
-    draggable="true"
     x="center"
     y="200"
   />
