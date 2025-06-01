@@ -11,9 +11,9 @@
   <agent
     id="test_video"
     video="videoplayback_1_.mp4"
-    width="100"
+    width="400"
     x="center"
-    y="400"
+    y="200"
   />
 
   <agent
