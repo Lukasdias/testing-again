@@ -44,4 +44,8 @@
       on_click="goToPage('middle')"
     />
   </fab-if>
+
+  <fab-for each="item in 10">
+    <agent id="text-$item" x="$item * 100" y="$item * 45" text="Bora - $item" />
+  </fab-for>
 </page>
