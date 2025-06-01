@@ -11,9 +11,28 @@
   <agent
     id="test_video"
     video="videoplayback_1_.mp4"
-    width="400"
+    width="200"
     x="center"
     y="200"
+    draggable="true"
+  />
+
+  <agent
+    id="test_video2"
+    video="videoplayback_1_.mp4"
+    width="200"
+    x="center"
+    y="300"
+    draggable="true"
+  />
+
+  <agent
+    id="test_video3"
+    video="videoplayback_1_.mp4"
+    width="200"
+    x="center"
+    y="400"
+    draggable="true"
   />
 
   <agent
