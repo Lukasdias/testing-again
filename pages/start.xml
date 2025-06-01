@@ -18,6 +18,13 @@
   />
 
   <agent
+    id="drop"
+    image="tech-switchunlocked.png"
+    drop_accept="test-video-3"
+    on_drop="set(can_go_to_page_2, true)"
+  />
+
+  <agent
     id="next_page_text"
     text="Proxima Pagina"
     animation="glitch"
