@@ -5,9 +5,8 @@
   <property name="visitante" default="Aventureiro" />
 
   <ending />
-  
+
   <start />
   <middle />
   <ending />
-  
 </fable>
