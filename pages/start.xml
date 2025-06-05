@@ -10,7 +10,7 @@
 
   <agent
     id="test_video3"
-    image="video_test"
+    video="video_test.mp4"
     width="60"
     x="center"
     y="400"
