@@ -10,7 +10,7 @@
 
   <agent
     id="test_video3"
-    video="video_test.mp4"
+    image="cemetery-arrowsign.png"
     width="180"
     x="center"
     y="400"
