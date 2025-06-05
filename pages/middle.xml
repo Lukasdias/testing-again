@@ -1,3 +1,10 @@
 <page id="middle" bg_image="forest-bg.png">
-  <agent id="test" text="Middle" font-size="90" color="red" />
+  <agent
+    id="test"
+    text="Middle"
+    x="center"
+    y="center"
+    font-size="90"
+    color="red"
+  />
 </page>
