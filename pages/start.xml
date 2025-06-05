@@ -10,7 +10,7 @@
 
   <agent
     id="test_video3"
-    image="hands.png"
+    image="video_test"
     width="60"
     x="center"
     y="400"
