@@ -6,6 +6,5 @@
     y="center"
     font-size="90"
     color="red"
-    animation="bounce-in"
   />
 </page>
