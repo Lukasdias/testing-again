@@ -11,7 +11,7 @@
   <agent
     id="test_video3"
     video="video_test.mp4"
-    width="60"
+    width="180"
     x="center"
     y="400"
     draggable="true"
